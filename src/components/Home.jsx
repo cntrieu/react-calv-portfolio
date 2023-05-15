@@ -8,7 +8,7 @@ const Home = () => {
        
        <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         
-            <div className="flex flex-col justify-center h-full mx-auto">
+            <div className="flex flex-col justify-center h-2/3 mx-auto">
                 <h2 className="text-4xl sm:text-7xl font-bold">
                     Welcome! I'm Calvin
                 </h2>
@@ -27,7 +27,7 @@ const Home = () => {
             </div>
             <div>
                 {/* screen size greater than md, portrait will be full. Otherwise it will be smaller on smaller screens*/}
-                <img src={portrait} alt="portrait"  className="rounded-2xl mx-auto w-2/3 md:w-full"/>
+                <img src={portrait} alt="portrait"  className="rounded-2xl w-2/3 md:w-full"/>
             </div>
        </div>
     </div>
