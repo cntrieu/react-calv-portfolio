@@ -79,7 +79,7 @@ const Contact = () => {
  
       
     return (
-        <div name='contact' className="w-full bg-gradient-to-b from-green-100 via-white to-green-100 text-black p-4 h-screen">
+        <div name='contact' className="w-full bg-gradient-to-b from-green-100 via-white to-green-100 text-black p-4 py-40">
 
             <div className="flex flex-col p-4 justify-center max-w-screen-lg mx-auto h-full">
                 <div className="pb-6">
