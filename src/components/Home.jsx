@@ -1,6 +1,7 @@
 import React from "react";
 import portrait from "../assets/img/portrait.jpg"
 import {AiOutlineArrowDown} from "react-icons/ai";
+import { Link } from "react-scroll"
 
 const Home = () => {
     return (
@@ -8,21 +9,21 @@ const Home = () => {
        
        <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
         
-            <div className="flex flex-col justify-center h-2/3 mx-auto">
-                <h2 className="text-4xl sm:text-7xl font-bold">
+            <div className="flex flex-col justify-center mx-auto">
+                <h2 className="text-4xl sm:text-7xl font-bold my-10">
                     Welcome! I'm Calvin
                 </h2>
-                <p className="py-4 max-w-md">
-                    I'm a fullstack developer from Toronto. Hoping to gain valuable skills!
+                <p className="py-4 max-w-md text-2xl">
+                    I'm a fullstack developer student currently attending the UofT Fullstack coding bootcamp. Always learning and trying to gain valuable skills!
                 </p>
 
                 <div>
-                    <button className="group text-black w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-300">
+                    <Link to="portfolio" smooth duration={400} className="group text-black w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-300 cursor-pointer">
                         Portfolio  
                         <span className="inline-block transform transition duration-200 group-hover:scale-150">
                             <AiOutlineArrowDown/>
                         </span>
-                    </button>
+                    </Link>
                 </div>
             </div>
             <div>
