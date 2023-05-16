@@ -5,9 +5,9 @@ import { Link } from "react-scroll"
 
 const Home = () => {
     return (
-    <div name="home" className="w-full bg-gradient-to-b from-green-100 via-white to-green-100 py-32">
+    <div name="home" className="w-full bg-gradient-to-b from-green-100 via-white to-green-100 py-64">
        
-       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center px-4 md:flex-row">
+       <div className="max-w-screen-xl mx-auto flex flex-col items-center justify-center px-4 md:flex-row">
         
             <div className="flex flex-col justify-center mx-auto">
                 <h2 className="text-4xl sm:text-7xl font-bold my-10">
@@ -18,9 +18,9 @@ const Home = () => {
                 </p>
 
                 <div>
-                    <Link to="portfolio" smooth duration={400} className="group text-black w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-300 cursor-pointer">
-                        Portfolio  
-                        <span className="inline-block transform transition duration-200 group-hover:scale-150">
+                    <Link to="about" smooth duration={400} className="group text-black w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-300 cursor-pointer ">
+                        About Me 
+                        <span className="inline-block duration-200 group-hover:scale-150">
                             <AiOutlineArrowDown/>
                         </span>
                     </Link>
