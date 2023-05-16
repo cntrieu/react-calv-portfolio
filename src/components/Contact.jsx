@@ -91,10 +91,10 @@ const Contact = () => {
                     <form action="https://getform.io/f/7c44349b-ed8a-49d2-a3dd-7262e2b283f1" method="POST" className="flex flex-col w-full md:w-1/2 m-6" onSubmit={submitValidation}>
                         <input type="text" name="name" placeholder="Enter your name" className="p-2 bg-transparent border-2 rounded-md focus:outline-none text-black" onBlur={handleBlur}></input> {nameError && <p className="text-red-500">{nameError}</p>}
 
-                        <input type="text" name="email" placeholder="Enter your email" className="p-2 my-4 bg-transparent border-2 rounded-md focus:outline-none text-black" onBlur={handleBlur}></input>
+                        <input type="text" name="email" placeholder="Enter your email" className="p-2 mt-4 bg-transparent border-2 rounded-md focus:outline-none text-black" onBlur={handleBlur}></input>
                         {emailError && <p className="text-red-500">{emailError}</p>}
 
-                        <textarea name="message" rows="10" placeholder="Your message..." className="p-2 bg-transparent border-2 rounded-md text-black focus:outline-none" onBlur={handleBlur}></textarea>
+                        <textarea name="message" rows="10" placeholder="Your message..." className="p-2 bg-transparent border-2 rounded-md text-black focus:outline-none mt-4" onBlur={handleBlur}></textarea>
                         {messageError && <p className="text-red-500">{messageError}</p>}
 
                         <button className="text-black bg-gradient-to-b from-cyan-400 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-105 duration-200">Send</button>
