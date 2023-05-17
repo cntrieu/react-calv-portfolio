@@ -24,6 +24,8 @@ Visit the following link to view my portfolio!
 
 https://cntrieu.github.io/react-calv-portfolio/
 
+![Portfolio](./src/assets/img/cntrieu.github.io_react-calv-portfolio_(Nest%20Hub).png)
+
 ## Contributing
 
 Contact me
