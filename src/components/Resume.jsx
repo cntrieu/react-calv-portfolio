@@ -14,6 +14,7 @@ import mongodb from '../assets/img/skills/mongodb.png'
 import mysql from '../assets/img/skills/mysql.png'
 import PWA from '../assets/img/skills/PWA.png'
 import tailwind from "../assets/img/skills/Tailwind_CSS_Logo.svg.png"
+import resumePlaceholder from "../assets/resume/resume.docx"
 
 const style = {
 item: {
@@ -121,7 +122,7 @@ const Resume = () => {
                 </Carousel>
 
                 <div className="max-w-screen-xl p-4 mx-auto flex flex-col justify-center w-full mt-10">
-            <a href="#"><h2 className="hover:text-sky-700 text-3xl font-bold">Click me to download my resume!</h2></a>
+            <a href={resumePlaceholder}><h2 className="hover:text-sky-700 text-3xl font-bold">Click me to download my resume!</h2></a>
            </div>
             </div>
        </section>
