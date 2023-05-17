@@ -2,13 +2,14 @@
 
 ## Description
 
-A simple single page text editor that runs in the browser that meets PWA criteria. This application has offline capabilities.
+A portfolio showcasing my work using React!
 
 The application uses:
 
 - React
 - NPM
 - Tailwind CSS
+
 ## Table of Contents
 
 - [Usage](#usage)
