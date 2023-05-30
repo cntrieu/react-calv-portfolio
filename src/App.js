@@ -1,3 +1,5 @@
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+
 import NavBar from "./components/NavBar";
 import Home from "./components/Home";
 import Footer from "./components/Footer";
@@ -9,13 +11,25 @@ import Resume from "./components/Resume";
 function App() {
   return (
     <div>
-      <NavBar />
+      <Router>
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<div><Home /><About /></div>} />
+          <Route path="/portfolio" element={<Portfolio />} />
+          <Route path="/resume" element={<Resume />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+        <Footer />
+      </Router>
+
+
+      {/* <NavBar />
       <Home />
       <About />
       <Portfolio />
       <Resume />
       <Contact />
-      <Footer />
+      <Footer /> */}
     </div>
   );
 }
