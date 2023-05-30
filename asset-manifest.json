@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-calv-portfolio/static/css/main.4c421a9b.css",
+    "main.js": "/react-calv-portfolio/static/js/main.ad2dd80b.js",
+    "static/media/employeetracker.png": "/react-calv-portfolio/static/media/employeetracker.78bef4177575dfc410ae.png",
+    "static/media/melodymatch.png": "/react-calv-portfolio/static/media/melodymatch.414d446384cf38411fcc.png",
+    "static/media/socialmedapi.png": "/react-calv-portfolio/static/media/socialmedapi.1b245721a58a155da3e4.png",
+    "static/media/weatherdashboard.png": "/react-calv-portfolio/static/media/weatherdashboard.dc06034c7bcc5edc595e.png",
+    "static/media/codingquiz.png": "/react-calv-portfolio/static/media/codingquiz.4df30e6d95402ae82bf9.png",
+    "static/media/nomadnebula.jpg": "/react-calv-portfolio/static/media/nomadnebula.092506e1080b8ef77434.jpg",
+    "static/media/PWA.png": "/react-calv-portfolio/static/media/PWA.26285ae2475bf5610723.png",
+    "static/media/portrait.jpg": "/react-calv-portfolio/static/media/portrait.14e5131fbaa48f2bea2f.jpg",
+    "static/media/atom.png": "/react-calv-portfolio/static/media/atom.ebb56ca47955bdc9fa25.png",
+    "static/media/handlebars.png": "/react-calv-portfolio/static/media/handlebars.1ad01d153cff19d537cc.png",
+    "static/media/nodejs.png": "/react-calv-portfolio/static/media/nodejs.007e99f68b718e476aba.png",
+    "static/media/mysql.png": "/react-calv-portfolio/static/media/mysql.4610cbabbff468ff8ae3.png",
+    "static/media/html-5.png": "/react-calv-portfolio/static/media/html-5.a92a549a591f4acb527a.png",
+    "static/media/mongodb.png": "/react-calv-portfolio/static/media/mongodb.7a16fc61d457c9e340e2.png",
+    "static/media/resume.docx": "/react-calv-portfolio/static/media/resume.343b97abab57f0dc2063.docx",
+    "static/media/Tailwind_CSS_Logo.svg.png": "/react-calv-portfolio/static/media/Tailwind_CSS_Logo.svg.f4d28909db484b714c90.png",
+    "static/media/api.png": "/react-calv-portfolio/static/media/api.aeb772ed84ad795728ce.png",
+    "static/media/revicons.eot": "/react-calv-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/react-calv-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/css-3.png": "/react-calv-portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/js.png": "/react-calv-portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "static/media/revicons.woff": "/react-calv-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/react-calv-portfolio/index.html",
+    "main.4c421a9b.css.map": "/react-calv-portfolio/static/css/main.4c421a9b.css.map",
+    "main.ad2dd80b.js.map": "/react-calv-portfolio/static/js/main.ad2dd80b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c421a9b.css",
+    "static/js/main.ad2dd80b.js"
+  ]
+}
