@@ -52,7 +52,7 @@ const Resume = () => {
             <div className="skill-box max-w-screen-xl p-4 mx-auto flex flex-col justify-center w-full">
                 <h2 className="text-4xl font-bold inline border-b-4 border-gray-400 py-3">Technologies</h2>
                 <p className="py-6 text-2xl">Here are some technologies that I have used: </p>
-                <Carousel responsive={responsive} infinite={true} className="skill-slider py-20" >
+                <Carousel responsive={responsive} infinite={true} className="skill-slider py-20 pl-20" >
 
                     <div className="item" style={style.item}>
                         <img src={JS} alt="JavaScript" />
