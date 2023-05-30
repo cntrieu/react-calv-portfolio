@@ -42,7 +42,7 @@ const NavBar = () => {
                         </li>
                 })} */}
                 <li className="px-4 cursor-pointer font-medium text-gray-300 hover:scale-105 duration-100 capitalize">
-                    <Link to="/">home</Link>
+                    <Link to="/react-calv-portfolio">home</Link>
                 </li>
 
                 <li className="px-4 cursor-pointer font-medium text-gray-300 hover:scale-105 duration-100 capitalize">
@@ -76,7 +76,7 @@ const NavBar = () => {
                 })} */}
 
                 <li className="px-4 cursor-pointer font-medium text-gray-300 hover:scale-105 duration-100 capitalize">
-                    <Link to="/">home</Link>
+                    <Link to="/react-calv-portfolio">home</Link>
                 </li>
 
                 <li className="px-4 cursor-pointer font-medium text-gray-300 hover:scale-105 duration-100 capitalize">

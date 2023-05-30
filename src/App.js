@@ -14,7 +14,7 @@ function App() {
       <Router>
         <NavBar />
         <Routes>
-          <Route path="/" element={<div><Home /><About /></div>} />
+          <Route path="/react-calv-portfolio" element={<div><Home /><About /></div>} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/resume" element={<Resume />} />
           <Route path="/contact" element={<Contact />} />
