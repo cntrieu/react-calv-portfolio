@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/react-calv-portfolio/static/css/main.4c421a9b.css",
-    "main.js": "/react-calv-portfolio/static/js/main.ad2dd80b.js",
+    "main.js": "/react-calv-portfolio/static/js/main.bd5cb5d2.js",
     "static/media/employeetracker.png": "/react-calv-portfolio/static/media/employeetracker.78bef4177575dfc410ae.png",
     "static/media/melodymatch.png": "/react-calv-portfolio/static/media/melodymatch.414d446384cf38411fcc.png",
     "static/media/socialmedapi.png": "/react-calv-portfolio/static/media/socialmedapi.1b245721a58a155da3e4.png",
+    "static/media/tinysquares.png": "/react-calv-portfolio/static/media/tinysquares.330cf89d3aa7e8702183.png",
     "static/media/weatherdashboard.png": "/react-calv-portfolio/static/media/weatherdashboard.dc06034c7bcc5edc595e.png",
     "static/media/codingquiz.png": "/react-calv-portfolio/static/media/codingquiz.4df30e6d95402ae82bf9.png",
     "static/media/nomadnebula.jpg": "/react-calv-portfolio/static/media/nomadnebula.092506e1080b8ef77434.jpg",
@@ -26,10 +27,10 @@
     "static/media/revicons.woff": "/react-calv-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-calv-portfolio/index.html",
     "main.4c421a9b.css.map": "/react-calv-portfolio/static/css/main.4c421a9b.css.map",
-    "main.ad2dd80b.js.map": "/react-calv-portfolio/static/js/main.ad2dd80b.js.map"
+    "main.bd5cb5d2.js.map": "/react-calv-portfolio/static/js/main.bd5cb5d2.js.map"
   },
   "entrypoints": [
     "static/css/main.4c421a9b.css",
-    "static/js/main.ad2dd80b.js"
+    "static/js/main.bd5cb5d2.js"
   ]
 }
